@@ -1,0 +1,37 @@
+#12{
+    text-align: center;
+    
+}
+
+#132{
+    text-align: center;
+    text-height: 16vh;
+}
+
+.nav {
+    color: gold;
+    background-color: navy;
+    padding:8px;
+    text-decoration: none;
+}
+ 
+#navdiv{
+    background-color: blue;
+     display: flex;
+    position: center;
+    top: 0px
+}
+ 
+.nav:hover {
+    color: gold;
+    background-color: blue;
+}
+ 
+body{
+    margin: 0;
+}
+
+#cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
