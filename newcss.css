@@ -33,5 +33,21 @@ body{
 
 #cont{
     display: grid;
+    
+    #col1{
+        
+        display: grid;
+    }
+    
+    
+    #col2{
+        display: grid;
+    }
+    
+    #col3{
+       display:grid;
+        
+    }
+    
+
     grid-template-columns: 1fr 1fr;
-}
