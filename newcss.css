@@ -33,7 +33,8 @@ body{
 
 #cont{
     display: grid;
-    
+    grid-template-columns: 1fr 1fr;
+
     #col1{
         
         display: grid;
@@ -50,4 +51,3 @@ body{
     }
     
 
-    grid-template-columns: 1fr 1fr;
